@@ -7,7 +7,7 @@ public class ATMMenu {
         int choice;
 
         while (true) {
-            // Display menu
+        
             System.out.println("\n=== ATM Menu ===");
             System.out.println("1. Check Balance");
             System.out.println("2. Deposit Money");
