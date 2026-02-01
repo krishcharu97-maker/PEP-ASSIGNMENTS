@@ -31,7 +31,6 @@ public class VowelConsonantCheck {
                     System.out.println("Consonant");
             }
         }
-
         sc.close();
     }
 }
